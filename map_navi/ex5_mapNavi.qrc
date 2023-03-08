@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ex5_mapNavi">
+    <file>9497ded85813771140195735e0026e20.jpeg</file>
+    <file>华中科技大学周边地图.bmp</file>
+    <file>231223.png</file>
+    <file>放大镜.png</file>
+  </qresource>
+</RCC>
